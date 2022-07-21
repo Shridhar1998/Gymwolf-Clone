@@ -33,3 +33,7 @@
 
   letter-spacing: 1px;
 }
+.pointer:hover {
+  color: #428bca;
+  cursor: pointer;
+}

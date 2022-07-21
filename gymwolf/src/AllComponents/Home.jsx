@@ -1,10 +1,10 @@
 import React from "react";
 import Navbar from "../Navbar/Navbar";
-import Video from "./Video";
+import Video from "../HomeComponents/Video";
 import "../css/video.css";
-import Mhome from "./Mhome";
+import Mhome from "../HomeComponents/Mhome";
 import { Box } from "@chakra-ui/react";
-import { Feature } from "./Feature";
+import { Feature } from "../HomeComponents/Feature";
 import { Footer } from "../Footer/Footer";
 
 function Home() {
