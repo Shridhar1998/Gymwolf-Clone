@@ -1,0 +1,40 @@
+.skyblue:hover {
+  color: red;
+  background-color: black;
+}
+.himages {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10%;
+}
+.greycontainer {
+  display: flex;
+  justify-content: center;
+
+  align-items: center;
+
+  width: 100%;
+  height: 300px;
+  background-color: lightgrey;
+}
+.btns {
+  display: flex;
+  align-items: center;
+  /* flex-direction: column; */
+  justify-content: center;
+  gap: 8px;
+
+  color: black;
+}
+.btns h1 {
+  font-weight: normal;
+  font-size: 32px;
+}
+.btns Button {
+  font-size: 32px;
+  font-weight: bolder;
+  padding: 0.5rem 1rem;
+  /* width: auto; */
+  height: auto;
+}

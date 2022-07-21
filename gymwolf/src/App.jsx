@@ -1,17 +1,14 @@
-import { useState } from 'react'
-import './App.css'
-import GymwolfMain from './Gymwolf/GymwolfMain'
+import { useState } from "react";
+import AllRoutes from "./AllRoutes/AllRoutes";
+import "./App.css";
+import GymwolfMain from "./Gymwolf/GymwolfMain";
 
 function App() {
-
-
   return (
     <div className="App">
-
-      <GymwolfMain/>
-   
+      <AllRoutes />
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
