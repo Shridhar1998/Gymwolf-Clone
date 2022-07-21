@@ -5,6 +5,7 @@ import "../css/video.css";
 import Mhome from "./Mhome";
 import { Box } from "@chakra-ui/react";
 import { Feature } from "./Feature";
+import { Footer } from "../Footer/Footer";
 
 function Home() {
   return (
@@ -16,6 +17,7 @@ function Home() {
         <Mhome />
       </Box>
       <Feature />
+      <Footer />
     </div>
   );
 }
