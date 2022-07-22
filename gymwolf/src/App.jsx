@@ -6,7 +6,8 @@ import GymwolfMain from "./Gymwolf/GymwolfMain";
 function App() {
   return (
     <div className="App">
-      <AllRoutes />
+      
+     <GymwolfMain/>
     </div>
   );
 }
