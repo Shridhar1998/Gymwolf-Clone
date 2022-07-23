@@ -1,0 +1,39 @@
+.navbar {
+  border: 1px solid grey;
+  width: 100%;
+  font-size: larger;
+  background-color: rgba(0, 0, 0, 0.25);
+  border: none;
+
+  padding: 20px 120px 15px 100px;
+  position: fixed;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+  color: white;
+}
+.navbar p {
+  padding: 0 10px 0 10px;
+  font-size: 17px;
+  font-weight: normal;
+}
+.navbar-gymwolf-logo {
+  display: inline-block;
+  height: 35px;
+  width: 30px;
+  margin-right: 10px;
+
+  padding: 1px 1px;
+}
+.navbar-brand {
+  color: #428bca;
+  font-size: 18px;
+  line-height: 40px;
+  font-weight: bold;
+
+  letter-spacing: 1px;
+}
+.pointer:hover {
+  color: #428bca;
+  cursor: pointer;
+}
