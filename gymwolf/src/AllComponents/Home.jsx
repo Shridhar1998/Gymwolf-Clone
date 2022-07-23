@@ -10,14 +10,11 @@ import { Footer } from "../Footer/Footer";
 function Home() {
   return (
     <div>
-      
-
       <Video />
       <Box mt="14.5vh" bgColor="#26a9e1">
         <Mhome />
       </Box>
       <Feature />
-      <Footer />
     </div>
   );
 }
