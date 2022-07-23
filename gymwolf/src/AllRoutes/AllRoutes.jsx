@@ -9,11 +9,9 @@ import Navbar from "../Navbar/Navbar";
 function AllRoutes() {
   return (
     <>
-<<<<<<< HEAD
-    
-=======
+
       <Navbar />
->>>>>>> f3122c0e0cd27a44ccecf99b00fa716602b08496
+
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/register" element={<Register />} />
