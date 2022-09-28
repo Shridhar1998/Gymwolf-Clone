@@ -34,15 +34,25 @@ This Individual project is a clone of the [GYMWOLF](https://www.gymwolf.com/) we
 
 - **Landing Page**
 
-  ![Homepage](https://miro.medium.com/max/1400/1*IAH29AMQiLDD3rBzpQQjOw.png)
+  ![Homepage](./readmeSneaks/home.png)
   
-- **Signup**
+- **Register**
 
-  ![Signup]()
+**General**
 
-  - **SignIn**
-    ![SignIn]()
+  ![General](./readmeSneaks/Register1.png)
+
+**Body Measurement**
+
+  ![Body Measurement](./readmeSneaks/bodymeas.png)
+
+**Privacy**
+  ![Privacy](./readmeSneaks/privacy.png)
+
+  - **Login**
+
+    ![Login](./readmeSneaks/login.png)
 
 - **Footer**
 
-  ![Footer]()
+  ![Footer](./readmeSneaks/footer.png)
